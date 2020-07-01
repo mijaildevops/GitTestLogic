@@ -17,6 +17,7 @@ namespace webMartes
             CreateHostBuilder(args).Build().Run();
         }
 
+        // cambio desde master
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
