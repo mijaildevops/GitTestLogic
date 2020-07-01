@@ -12,7 +12,7 @@ namespace webMartes
 {
     // Nuevos cambios para GIthub (Clone)
     // subir Cambios a Github
-    // update dos para github
+    // update tres para github
     public class Program // este es un comentario para Sprint2
     {
         public static void Main(string[] args)
