@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace webMartes
 {
-    public class Program // Comentario (Master)
+    public class Program // este es un comentario para Sprint2
     {
         public static void Main(string[] args)
         {
@@ -18,6 +18,7 @@ namespace webMartes
         }
 
         // cambio desde master
+        // cambio en Branch Sprint2
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
