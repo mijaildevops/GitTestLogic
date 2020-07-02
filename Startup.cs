@@ -23,12 +23,19 @@ namespace webMartes
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            dfdsfhdsfa
+                fdhdfjasdfdasfh df;jadsf
+                    fdlkdfjlasdfj
+                    sd
             services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            dfjadsjfasd 
+                fdjdfjlsdf 
+                djdkfdj
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
