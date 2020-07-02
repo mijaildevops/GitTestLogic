@@ -17,6 +17,7 @@ namespace webMartes
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Saludos de Edgar");
             CreateHostBuilder(args).Build().Run();
         }
 
